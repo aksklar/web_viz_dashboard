@@ -5,4 +5,4 @@ The premise of this project was to create a visualization dashboard website for 
 * Comparison page: Contains all the visualization on the same page so users can easily visually compare the four plots
 * Data page: Contains a responsive table with data used for the visualizations.
 
-https://aksklar.github.io/web_viz_dashboard/
+Finish product: https://aksklar.github.io/web_viz_dashboard/
